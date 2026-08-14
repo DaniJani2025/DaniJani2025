@@ -23,5 +23,6 @@
 🔹 **CloudNext** — cloud storage & infrastructure platform
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/dhananjay-jani-6b8367281/
-- Email: hello@danijani.com
+- [LinkedIn](https://www.linkedin.com/in/dhananjay-jani-6b8367281/)
+- [Email](mailto:hello@danijani.com)
+- [View My Resume](./resume.pdf)
